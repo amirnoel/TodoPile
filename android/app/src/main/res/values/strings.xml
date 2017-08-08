@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Todo Pile</string>
+    <string name="action_settings">Settings</string>
+    <string name="message_to_cast"><![CDATA[Message to Cast&#8230;]]></string>
+    <string name="media_route_menu_title">Play on&#8230;</string>
+    <string name="cast_namespace" translatable="false">urn:x-cast:com.amirnoel.cast.sample.todopile</string>
+    <string name="cast_app_id">A1154D51</string>
+    <string-array name="todos">
+        <item>Install Android Studio</item>
+        <item>Create a new Project</item>
+        <item>Add a TextView Component to the Main Activity Layout</item>
+    </string-array>
+</resources>
